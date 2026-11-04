@@ -1,0 +1,9 @@
+# Allow-list: only the submission, the run notebooks and the lab screenshots are tracked.
+/*
+!/.gitignore
+!/submission/
+!/screenshots/
+!/lab run.ipynb
+!/Team 109 - Q_learning_SARSA.ipynb
+*.bak
+.ipynb_checkpoints/
